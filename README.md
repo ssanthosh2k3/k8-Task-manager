@@ -215,6 +215,13 @@ spec:
   selector:
     app: java-task
 ```
+
+Once the service is creted, you can verify that the service status and details using the following command:
+
+```bash
+kubectl get svc -A
+
+```
 ![Output](https://github.com/ssanthosh2k3/k8-Task-manager/blob/main/assests/lbservice.png)
 
 ## Additional Notes
