@@ -112,7 +112,7 @@ The project repository should include the following files and directories:
   - Build the Docker image.
   - Push the Docker image to Docker Hub.
 
-![Pipeline Script](https://github.com/ssanthosh2k3/task-manager/blob/main/assests/java-docker-repo.png)
+![Pipeline Script](https://github.com/ssanthosh2k3/k8-Task-manager/blob/main/assests/java-docker-repo.png)
 
 ### Step 4: Install Jenkins Plugins
 
@@ -137,7 +137,7 @@ The project repository should include the following files and directories:
 
 - Create a new Jenkins job (Job name: **Task-manager**) to deploy the application from Docker Hub to your Kubernetes cluster.
 
-![Jenkins Job Configuration](https://github.com/ssanthosh2k3/task-manager/blob/main/assests/jenkinsjobs.png)
+![Jenkins Job Configuration](https://github.com/ssanthosh2k3/k8-Task-manager/blob/main/assests/jenkinsjobs.png)
 
 ### Step 7: Create Deployment File 💻
 
@@ -215,7 +215,7 @@ spec:
 
 The Java To-Do application is successfully deployed in a Kubernetes cluster, providing high availability and robust performance. Below is an overview of the application interface:
 
-![Homepage Image](https://github.com/ssanthosh2k3/task-manager/blob/main/homepage.png)
+![Homepage Image](https://github.com/ssanthosh2k3/k8-Task-manager/blob/main/assests/homepage.png)
 
 
 
