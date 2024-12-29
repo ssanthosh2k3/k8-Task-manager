@@ -215,7 +215,7 @@ spec:
   selector:
     app: java-task
 ```
-
+![Output](https://github.com/ssanthosh2k3/k8-Task-manager/blob/main/assests/lbservice.png)
 
 ## Additional Notes
 
