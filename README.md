@@ -189,6 +189,9 @@ kubectl get po
 
 Set up a webhook in Docker Hub with the token for the project repository. This allows Docker Hub to notify Jenkins whenever a new image is pushed.
 
+![Docker webhook Output](https://github.com/ssanthosh2k3/k8-Task-manager/blob/main/assests/docker%20webhook.png)
+
+
 ### Step 9: Create Kubernetes Deployment Pipeline
 
 Develop a Jenkins pipeline that triggers on Jenkins jobs or any push events to deploy the latest image to the Kubernetes cluster. This ensures that your application is always running the most recent version.
