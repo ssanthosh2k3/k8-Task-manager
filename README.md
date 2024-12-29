@@ -175,6 +175,15 @@ spec:
 
 ```
 
+Once the application is deployed, you can verify that the application pods are running using the following command:
+
+```bash
+kubectl get po
+
+```
+![Java Process Output](https://github.com/ssanthosh2k3/k8-Task-manager/blob/main/assests/javapo.png)
+
+
 
 ### Step 8: Configure Webhook in Docker Hub
 
