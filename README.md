@@ -216,7 +216,7 @@ spec:
     app: java-task
 ```
 
-Once the service is creted, you can verify that the service status and details using the following command:
+Once the service is created, you can verify the service status and details using the following command:
 
 ```bash
 kubectl get svc -A
