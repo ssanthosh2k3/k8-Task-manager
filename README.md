@@ -131,7 +131,7 @@ The project repository should include the following files and directories:
   - Docker Hub credentials.
   - Kube config file.
 
-![Credentials Configuration](https://github.com/ssanthosh2k3/task-manager/blob/main/assests/cred.png)
+![Credentials Configuration](https://github.com/ssanthosh2k3/k8-Task-manager/blob/main/assests/cred.png)
 
 ### Step 6: Create Pipeline from Docker Hub to Kubernetes Cluster
 
